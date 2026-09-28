@@ -1,0 +1,17 @@
+node_modules/
+runtime/
+dist/
+release/
+*.zip
+shot.png
+*.log
+.env
+.env.*
+deepseek-config.json
+Local Storage/
+Session Storage/
+Cache/
+Code Cache/
+GPUCache/
+.DS_Store
+Thumbs.db

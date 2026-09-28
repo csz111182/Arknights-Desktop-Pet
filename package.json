@@ -1,0 +1,16 @@
+{
+  "name": "arknights-desktop-pet",
+  "version": "1.0.0",
+  "private": true,
+  "description": "非官方明日方舟桌宠：令、遥与阿米娅",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "dependencies": {
+    "@openai/codex-sdk": "0.155.0"
+  },
+  "devDependencies": {
+    "electron": "44.1.1"
+  }
+}
